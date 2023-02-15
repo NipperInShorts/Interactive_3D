@@ -1,4 +1,4 @@
 # Interactive_3D
 
 ## Creates character movement and camera controller
-### Small UI for to track tasks
+### Small UI for tracking tasks
