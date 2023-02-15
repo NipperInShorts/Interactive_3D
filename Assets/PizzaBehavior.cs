@@ -7,7 +7,7 @@ public class PizzaBehavior : MonoBehaviour
     private Vector3 startPos;
     private Vector3 endPos;
 
-    public float frames = 3200f;
+    public float frames = 1000f;
 
     // Start is called before the first frame update
     void Start()
